@@ -5,7 +5,7 @@ CLONED_LIST="cloned_repos.csv"
 touch "$CLONED_LIST"
 
 # Skip the header line and process each non-empty line
-tail -n +2 2024-11-14-FE-Links.csv | while IFS=';' read -r team country link _; do
+tail -n +2 2024-FE-Links.csv | while IFS=';' read -r team country link _; do
     # Skip if link is empty
     if [ ! -z "$link" ]; then
         # Transform team name: remove special chars and replace spaces with underscores
