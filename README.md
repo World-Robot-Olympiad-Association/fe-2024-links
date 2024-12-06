@@ -15,7 +15,7 @@ Teams with public repositories: 48
 | 2EZ | India | [:octocat:](https://github.com/tecnoplasma/2EZ_WRO_Future_Engineers2024) |
 | AGSG1 | Portugal | [:octocat:](https://github.com/ImSimao/S2024Future-Engeneers) |
 | ASPARAGUS | Canada | [:octocat:](https://github.com/kylln20/WRO_FE_2023-24) |
-| BSU Ispartan Team | Philippines | [:octocat:](https://github.com/AbeBuck/BSU-Spartan-Team_FE-2024) |
+| BSU Ispartan Team | Philippines | [:octocat:](https://github.com/AbeBuck/BSU-Spartan-Team_FE-2024) (the team closed the repo) |
 | CETYS | Mexico | [:octocat:](https://github.com/marianasvega/WRO_FE-CETYS) |
 | Dark Eagles | Jordan | [:octocat:](https://github.com/hasan-2001690/Team_Dark_Eagles-WRO-FutureEngineers) |
 | DriverUS | United States of America | [:octocat:](https://github.com/Utcassyxz/USA-Future-Engineers---DriverUS) |
@@ -24,8 +24,8 @@ Teams with public repositories: 48
 | FVJ USA | United States of America | [:octocat:](https://github.com/vinayaa1/FVJ-WRO-2024) |
 | HK-Control C | Hong Kong | [:octocat:](https://github.com/ChaceCoding/WRO-2024-Future-Engineers) |
 | HK-LCDMC | Hong Kong | [:octocat:](https://github.com/fuqup571/WRO-Future-Engineering-LCDMC) |
-| I-Robocom | Malaysia | [:octocat:](https://github.com/11grace17/I-Robocom) |
-| I-Robonator | Malaysia | [:octocat:](https://github.com/Ting711/I-Robonator) |
+| I-Robocom | Malaysia | [:octocat:](https://github.com/11grace17/I-Robocom) (the team removed files from the repo) |
+| I-Robonator | Malaysia | [:octocat:](https://github.com/Ting711/I-Robonator) (the team removed files from the repo) |
 | IoTronic-Polivirtual | Mexico | [:octocat:](https://github.com/IotronicAcademy/WRO-Future-Engineers-Turkey-2024) |
 | KANAAN | Palestine | [:octocat:](https://github.com/wroqabatyacaesar2023/CAESAR) |
 | KMIDS | Thailand | [:octocat:](https://github.com/Chayanon-Ninyawee/KMIDS-TDF-WRO-Future-Engineers-2024) |
