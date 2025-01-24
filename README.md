@@ -14,6 +14,7 @@ Teams with public repositories: 48
 |------|---------|------------|
 | 2EZ | India | [:octocat:](https://github.com/tecnoplasma/2EZ_WRO_Future_Engineers2024) |
 | AGSG1 | Portugal | [:octocat:](https://github.com/ImSimao/S2024Future-Engeneers) |
+| Aitchison X | Pakistan | (No repo submitted) |
 | ASPARAGUS | Canada | [:octocat:](https://github.com/kylln20/WRO_FE_2023-24) |
 | BSU Ispartan Team | Philippines | [:cat:](https://github.com/World-Robot-Olympiad-Association-FE/2024-Int-Final-BSU-Ispartan-Team) (Reuploaded because the team closed the repo) |
 | CETYS | Mexico | [:octocat:](https://github.com/marianasvega/WRO_FE-CETYS) |
@@ -32,6 +33,7 @@ Teams with public repositories: 48
 | Knight Rider | Iran | [:octocat:](https://github.com/shirazknightrider/Knight-Rider-) |
 | kyivrobomagic | Ukraine | [:octocat:](https://github.com/KyivRoboMagic/WRO-2024) |
 | Leteam | Palestine | [:octocat:](https://github.com/leteam-WRO2024/wro_t_2024) |
+| Los Pythoners | El Salvador | (No repo submitted) |
 | MAYERDOA_ROBOTICS | Bangladesh | [:octocat:](https://github.com/AnasBinAzim/MAYERD0A_ROBOTICS) |
 | MINDCRAFT | Morocco | [:octocat:](https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS) |
 | MKS Robotics | Germany | [:octocat:](https://github.com/NickTechMaster/WRO_Future_Engineers_MKS_Robotics_2024_Izmir) |
