@@ -2,7 +2,45 @@
 
 This repository contains links to team repositories from past WRO Future Engineers competitions. It serves as a resource for future participants to learn from previous developments.
 
-## 2024 International Final
+## Open Championship Europe - Italy (25.09.2024 - 28.09.2024)
+
+Total teams: 8
+
+Official results of the documentation evaluation are available [here](https://docs.google.com/spreadsheets/d/11NTBYbV2vY9Q6gdYP7xdrHtJPdDSd7MLxHjrP_3l0cs/edit)
+
+Teams with public repositories: 7
+
+| Team | Country | Repository |
+|------|---------|------------|
+| AirSaft | Romania | [:octocat:](https://github.com/asalos22222/WRO-FUTURE-ENGINEERS-2024) |
+| ENGINEER INSIDE | Türkiye | (No repo submitted) |
+| Falafel Tech | Palestine | [:octocat:](https://github.com/FalafelTech-team/WRO-Future-Engineers) |
+| FlawFactory | Switzerland | [:octocat:](https://github.com/robofactory-ch/flawfactory-future-engineers-brescia) |
+| Kandó Konstruktorok | Hungary | [:octocat:](https://github.com/Kristof30045/WRO) |
+| NERDVANA PEGASUS | Romania | [:octocat:](https://github.com/RaduSefuLaGithub/Nerdvana_Pegasus_2024_FutureEngineers) |
+| Smart Riders | Germany | [:octocat:](https://github.com/64qyt6za/GSGSmartiecar) |
+| TEAM VIOLET | Venezuela | [:octocat:](https://github.com/reiruso07/WRO2024_Future_Engineers-Team-Violet) |
+
+
+## Open Championship Americas - Puerto Rico (01.10.2024 - 03.10.2024)
+
+Total teams: 6
+
+Official results of the documentation evaluation are available [here](https://scoring.wro-association.org/en/event/scoring/168/wro-open-championship)
+
+Teams with public repositories: 4
+
+| Team | Country | Repository |
+|------|---------|------------|
+| Car Go Vroom | United States of America | (No repo submitted) |
+| Chassis Champions SC | Guatemala | (No repo submitted) |
+| Esc. Benjamin Harrison (Cayey) FE | Puerto Rico | [:octocat:](https://github.com/E4Force/E4-Force-Team) |
+| Esc. Tomás C. Ongay (Bayamón)  | Puerto Rico | [:octocat:](https://github.com/WROMagnet/Magnet-Robots) |
+| Revine | Peru | [:octocat:](https://github.com/marieblasi/wro2024-robotek) |
+| SJJ | Canada | [:octocat:](https://github.com/crispy-pepper/WRO_2024) |
+
+
+## International Final - Türkiye (28.11.2024 - 30.11.2024)
 
 Total teams: 50
 
