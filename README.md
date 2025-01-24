@@ -15,17 +15,17 @@ Teams with public repositories: 48
 | 2EZ | India | [:octocat:](https://github.com/tecnoplasma/2EZ_WRO_Future_Engineers2024) |
 | AGSG1 | Portugal | [:octocat:](https://github.com/ImSimao/S2024Future-Engeneers) |
 | ASPARAGUS | Canada | [:octocat:](https://github.com/kylln20/WRO_FE_2023-24) |
-| BSU Ispartan Team | Philippines | [:octocat:](https://github.com/AbeBuck/BSU-Spartan-Team_FE-2024) (the team closed the repo) |
+| BSU Ispartan Team | Philippines | [:cat:](https://github.com/World-Robot-Olympiad-Association-FE/2024-Int-Final-BSU-Ispartan-Team) (Reuploaded because the team closed the repo) |
 | CETYS | Mexico | [:octocat:](https://github.com/marianasvega/WRO_FE-CETYS) |
 | Dark Eagles | Jordan | [:octocat:](https://github.com/hasan-2001690/Team_Dark_Eagles-WRO-FutureEngineers) |
-| DriverUS | United States of America | [:octocat:](https://github.com/Utcassyxz/USA-Future-Engineers---DriverUS) |
+| DriverUS | United States of America | [:cat:](https://github.com/World-Robot-Olympiad-Association-FE/2024-Int-Final-DriverUS) (Reuploaded because the team closed the repo) |
 | FAST GEAR | Türkiye | [:octocat:](https://github.com/FASTGEARFE2024/FE20204_FASTGEAR) |
 | FireOnAllCylinders | Chinese Taipei | [:octocat:](https://github.com/kirkhu/WRO2024_FE-Fire-On-All-Cylinders) |
 | FVJ USA | United States of America | [:octocat:](https://github.com/vinayaa1/FVJ-WRO-2024) |
 | HK-Control C | Hong Kong | [:octocat:](https://github.com/ChaceCoding/WRO-2024-Future-Engineers) |
 | HK-LCDMC | Hong Kong | [:octocat:](https://github.com/fuqup571/WRO-Future-Engineering-LCDMC) |
-| I-Robocom | Malaysia | [:octocat:](https://github.com/11grace17/I-Robocom) (the team removed files from the repo) |
-| I-Robonator | Malaysia | [:octocat:](https://github.com/Ting711/I-Robonator) (the team removed files from the repo) |
+| I-Robocom | Malaysia | [:octocat:](https://github.com/11grace17/I-Robocom) [:cat:](https://github.com/World-Robot-Olympiad-Association-FE/2024-Int-Final-I-Robocom) (Reuploaded because the team removed files from the repo) |
+| I-Robonator | Malaysia | [:octocat:](https://github.com/Ting711/I-Robonator) [:cat:](https://github.com/World-Robot-Olympiad-Association-FE/2024-Int-Final-I-Robonator) (Reuploaded because the team removed files from the repo) |
 | IoTronic-Polivirtual | Mexico | [:octocat:](https://github.com/IotronicAcademy/WRO-Future-Engineers-Turkey-2024) |
 | KANAAN | Palestine | [:octocat:](https://github.com/wroqabatyacaesar2023/CAESAR) |
 | KMIDS | Thailand | [:octocat:](https://github.com/Chayanon-Ninyawee/KMIDS-TDF-WRO-Future-Engineers-2024) |
@@ -56,10 +56,11 @@ Teams with public repositories: 48
 | Team RoboCRV | Venezuela | [:octocat:](https://github.com/ROBOTEAMCRV/roboteamCRV) |
 | Team Spark | Venezuela | [:octocat:](https://github.com/KarenWon9/WRO-FI-Team-Spark) |
 | Teikyorobostar | Japan | [:octocat:](https://github.com/Hart1109/TeikyoRobostar-WRO-FE-2024) |
-| TERRENATOR | Panama | [:octocat:](https://github.com/kieviceb/TERRENATOR-WRO-PANAMA-2024) |
+| TERRENATOR | Panama | [:cat:](https://github.com/World-Robot-Olympiad-Association-FE/2024-Int-Final-TERRENATOR) (Reuploaded because the team closed the repo) |
 | TLGC CATALYST | Philippines | [:octocat:](https://github.com/tlgccatalyst2024/tlgcfutureengineersphilippines) |
 | VocTomasOnagay | Puerto Rico | [:octocat:](https://github.com/WROMagnet/Magnet-Robots) |
 | VOLTERRA | Italy | [:octocat:](https://github.com/Lor7/WRO2024-FUTURE-ENGINEERS-VOLTERRA-TEAM-INTERNATIONAL-FINAL) |
 
 Notes:
 * :octocat: - Link to the team's GitHub repository
+* :cat: - Reuploaded repos by World Robot Olympiad Association
